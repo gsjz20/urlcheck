@@ -1,9 +1,6 @@
 # urlcheck
 Multi-platform domain security checker – 聚合 QQ、多平台域名拦截检测工具 —— 支持 **QQ拦截查询**、**微信域名检测**、vivo、OPPO、百度、华为等主流平台，一键检测域名是否被屏蔽或标记风险。
 
-## Keywords / 关键词
-
-`domain security` `QQ block` `WeChat block` `URL checker` `domain risk` `API wrapper` `vivo` `oppo` `huawei` `baidu` `phishing detection`
 
 
 # 多平台域名拦截检测工具
