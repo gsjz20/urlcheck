@@ -1,5 +1,9 @@
 # urlcheck
-Multi-platform domain security checker – 聚合 QQ、微信、vivo、OPPO、百度、华为等主流平台的域名拦截检测 API，一键查询域名在各大生态内的安全状态，助力站长快速排查风险。
+Multi-platform domain security checker – 聚合 QQ、多平台域名拦截检测工具 —— 支持 **QQ拦截查询**、**微信域名检测**、vivo、OPPO、百度、华为等主流平台，一键检测域名是否被屏蔽或标记风险。
+
+## Keywords / 关键词
+
+`domain security` `QQ block` `WeChat block` `URL checker` `domain risk` `API wrapper` `vivo` `oppo` `huawei` `baidu` `phishing detection`
 
 
 # 多平台域名拦截检测工具
@@ -61,6 +65,7 @@ curl "https://tmini.net/api/wechaturlcheck?url=example.com"
 curl "https://www.tmini.net/api/check?url=example.com"
 
 ```
+## PYthon
 
 ```python
 import requests
